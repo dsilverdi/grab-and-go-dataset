@@ -1,0 +1,29 @@
+item {
+    id:1
+    name:'indomie'
+}
+
+item {
+    id:2
+    name:'aqua'
+}
+
+item {
+    id:3
+    name:'tissue'
+}
+
+item {
+    id:4
+    name:'chitato'
+}
+
+item {
+    id:5
+    name:'shampoo'
+}
+
+item {
+    id:6
+    name:'pepsodent'
+}
