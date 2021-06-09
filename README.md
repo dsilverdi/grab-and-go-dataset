@@ -49,3 +49,6 @@ We use tfrecords as input for our model training, to generate it we run generate
 python generate_tfrecord.py --csv_input=data/train_labels.csv  --output_path=train.record --image_dir=images/train/
 python generate_tfrecord.py --csv_input=data/test_labels.csv  --output_path=test.record --image_dir=images/test/
 ```
+
+# Model Training
+Access the Colab Notebook in this [link](https://colab.research.google.com/drive/1FzWikcT1_xjw6Ze-1gxjoUW8GWk_N2uU?usp=sharing) to train Grab and Go Retail Detection Model
