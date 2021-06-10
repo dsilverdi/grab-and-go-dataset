@@ -1,4 +1,4 @@
-# Grab and Go Core
+# Grab and Go Dataset
 Source Code for Automate Generate tfrecord from Kaggle Grab and Go Dataset
 
 # Installation
